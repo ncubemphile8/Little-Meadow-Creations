@@ -1,0 +1,9 @@
+{
+  "name":"little-meadow-creations",
+  "private":true,
+  "version":"1.0.0",
+  "type":"module",
+  "scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},
+  "dependencies":{"@vitejs/plugin-react":"latest","framer-motion":"^12.23.24","lucide-react":"^0.468.0","react":"^19.0.0","react-dom":"^19.0.0","react-router-dom":"^7.1.1"},
+  "devDependencies":{"vite":"^6.0.7"}
+}
